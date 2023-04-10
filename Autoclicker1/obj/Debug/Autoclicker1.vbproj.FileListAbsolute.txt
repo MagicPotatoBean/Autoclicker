@@ -1,0 +1,13 @@
+C:\Users\terra\source\repos\Autoclicker1\Autoclicker1\bin\Debug\Autoclicker1.exe.config
+C:\Users\terra\source\repos\Autoclicker1\Autoclicker1\bin\Debug\Autoclicker1.exe
+C:\Users\terra\source\repos\Autoclicker1\Autoclicker1\bin\Debug\Autoclicker1.pdb
+C:\Users\terra\source\repos\Autoclicker1\Autoclicker1\bin\Debug\Autoclicker1.xml
+C:\Users\terra\source\repos\Autoclicker1\Autoclicker1\obj\Debug\Autoclicker1.vbproj.AssemblyReference.cache
+C:\Users\terra\source\repos\Autoclicker1\Autoclicker1\obj\Debug\Autoclicker1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\terra\source\repos\Autoclicker1\Autoclicker1\obj\Debug\Autoclicker1.Form1.resources
+C:\Users\terra\source\repos\Autoclicker1\Autoclicker1\obj\Debug\Autoclicker1.Resources.resources
+C:\Users\terra\source\repos\Autoclicker1\Autoclicker1\obj\Debug\Autoclicker1.vbproj.GenerateResource.cache
+C:\Users\terra\source\repos\Autoclicker1\Autoclicker1\obj\Debug\Autoclicker1.vbproj.CoreCompileInputs.cache
+C:\Users\terra\source\repos\Autoclicker1\Autoclicker1\obj\Debug\Autoclicker1.exe
+C:\Users\terra\source\repos\Autoclicker1\Autoclicker1\obj\Debug\Autoclicker1.xml
+C:\Users\terra\source\repos\Autoclicker1\Autoclicker1\obj\Debug\Autoclicker1.pdb
